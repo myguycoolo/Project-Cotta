@@ -1,0 +1,50 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cotta Game",
+    "description": "TypeScript Starter",
+    "uuid": "bf7e9b5b-7458-41b0-b474-13c4cb520eaa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "Script resources",
+      "language": "javascript",
+      "type": "script",
+      "uuid": "fd2d9529-c661-4682-ac28-705e29301bc9",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": [
+        1,
+        14,
+        0
+      ]
+    },
+    {
+      "uuid": "2d7ed858-97eb-48a0-b180-7c80d1ce9a48",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

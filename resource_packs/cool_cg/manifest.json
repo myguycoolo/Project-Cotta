@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cotta Game",
+    "description": "TypeScript Starter",
+    "uuid": "3e5494c6-d5a3-4e3e-a902-24f4161126c8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "My Resource Pack",
+      "type": "resources",
+      "uuid": "503fe660-142b-46a2-8fec-34a54e944720",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "14e467b4-e3aa-49d3-8352-f8439fd7b2ee",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
